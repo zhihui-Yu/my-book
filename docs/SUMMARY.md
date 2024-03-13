@@ -1,7 +1,7 @@
 # Summary
 
 ## Life
-* [Day1](Life/Day1.md)
+* [Day1](life/day1.md)
 
 ## Java
 
