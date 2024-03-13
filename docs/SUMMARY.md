@@ -1,15 +1,24 @@
-# Summary
+[//]: # (# Summary)
 
-## Use headings to create page groups like this one
+[//]: # ()
+[//]: # (## Use headings to create page groups like this one)
 
-* [First page’s title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+[//]: # ()
+[//]: # (* [First page’s title]&#40;page1/README.md&#41;)
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+[//]: # (    * [Some child page]&#40;page1/page1-1.md&#41;)
 
-## A second-page group
+[//]: # (    * [Some other child page]&#40;part1/page1-2.md&#41;)
 
-* [Yet another page](another-page.md)
+[//]: # ()
+[//]: # (* [Second page’s title]&#40;page2/README.md&#41;)
+
+[//]: # (    * [Some child page]&#40;page2/page2-1.md&#41;)
+
+[//]: # (    * [Some other child page]&#40;part2/page2-2.md&#41;)
+
+[//]: # ()
+[//]: # (## A second-page group)
+
+[//]: # ()
+[//]: # (* [Yet another page]&#40;another-page.md&#41;)
