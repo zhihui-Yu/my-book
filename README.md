@@ -1,5 +1,4 @@
 # my-book
-
 ---
 
-Everything In My Life.
+Docs about myself, what I got, learnt, known.
