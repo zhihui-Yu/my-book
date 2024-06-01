@@ -8,7 +8,8 @@
 
 * [起床后的黄金1小时](book/起床后的黄金一小时.md)
 * [人间修炼指南](book/人间修炼指南.md)
-* [贫穷的本质.md](book/贫穷的本质.md)
+* [贫穷的本质](book/贫穷的本质.md)
+* [精准努力：刘媛媛的逆袭课](book/精准努力.md)
 * [高性能MySQL](book/高性能MySQL.md)
 * [代码设计](book/design/README.md)
     * [CleanCode](book/design/CleanCode.md)
