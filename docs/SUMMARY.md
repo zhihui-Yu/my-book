@@ -41,6 +41,7 @@
 ## Blog
 
 * [你不知道的前端](blog/你不知道的前端.md)
+* [Gitbook本地安装教程](blog/gitbook.md)
 
 ## English
 
