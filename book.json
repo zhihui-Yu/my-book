@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "disqus",
+    "prism",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "gitbook-tutorial"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+      ]
+    }
+  }
+}
