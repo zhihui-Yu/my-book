@@ -2,16 +2,15 @@
 
 ## Life
 
+* [影视推荐](life/影视推荐.md)
+* [2024书单](life/书单.md)
+* [人生](life/life.md)
 * [所想](others/thinking.md)
 
 ## Book
 
-* [起床后的黄金1小时](book/起床后的黄金一小时.md)
-* [人间修炼指南](book/人间修炼指南.md)
-* [贫穷的本质](book/贫穷的本质.md)
-* [活着](book/活着.md)
-* [精准努力：刘媛媛的逆袭课](book/精准努力.md)
 * [高性能MySQL](book/高性能MySQL.md)
+* [MySQL技术内幕_innodb存储引擎](book/MySQL技术内幕_innodb存储引擎.md)
 * [代码设计](book/design/README.md)
     * [CleanCode](book/design/CleanCode.md)
     * [阿里Java开发手册](book/design/阿里Java开发手册.md)
@@ -25,6 +24,7 @@
 * [Java](book/Java/README.md)
     * [深入浅出Java多线程](book/Java/深入浅出Java多线程.md)
     * [深入理解java虚拟机](book/Java/深入理解Java虚拟机.md)
+    * [JVM 核心技术](book/Java/JVM核心技术.md)
 * [Kubernetes In Action](book/kubernetes-in-action/README.md)
     * [Chapter 1](book/kubernetes-in-action/kubernetes-in-action-1.md)
     * [Chapter 2](book/kubernetes-in-action/kubernetes-in-action-2.md)
@@ -37,6 +37,13 @@
     * [Chapter 9](book/kubernetes-in-action/kubernetes-in-action-9.md)
     * [Chapter 10](book/kubernetes-in-action/kubernetes-in-action-10.md)
     * [Chapter 11](book/kubernetes-in-action/kubernetes-in-action-11.md)
+* [因是子静坐养生法](book/因是子静坐养生法.md)
+* [起床后的黄金1小时](book/起床后的黄金一小时.md)
+* [人间修炼指南](book/人间修炼指南.md)
+* [贫穷的本质](book/贫穷的本质.md)
+* [活着](book/活着.md)
+* [精准努力：刘媛媛的逆袭课](book/精准努力.md)
+
 
 ## Blog
 
