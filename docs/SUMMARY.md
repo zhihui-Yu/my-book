@@ -37,12 +37,13 @@
     * [Chapter 9](book/kubernetes-in-action/kubernetes-in-action-9.md)
     * [Chapter 10](book/kubernetes-in-action/kubernetes-in-action-10.md)
     * [Chapter 11](book/kubernetes-in-action/kubernetes-in-action-11.md)
-* [因是子静坐养生法](book/因是子静坐养生法.md)
-* [起床后的黄金1小时](book/起床后的黄金一小时.md)
 * [人间修炼指南](book/人间修炼指南.md)
 * [贫穷的本质](book/贫穷的本质.md)
 * [活着](book/活着.md)
+* [窄门](book/窄门.md)
 * [精准努力：刘媛媛的逆袭课](book/精准努力.md)
+* [起床后的黄金1小时](book/起床后的黄金一小时.md)
+* [因是子静坐养生法](book/因是子静坐养生法.md)
 
 
 ## Blog
