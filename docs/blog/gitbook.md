@@ -2,6 +2,8 @@
 
 ---
 
+`date: 2024-09-09`
+
 ## 安装
 - node [nodejs的v10.21.0版本，下载地址：https://nodejs.org/dist/v10.21.0/node-v10.21.0-x64.msi]
   - 其他版本有问题
