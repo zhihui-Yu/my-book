@@ -3,7 +3,7 @@
 ## Life
 
 * [影视推荐](life/影视推荐.md)
-* [2024书单](life/书单.md)
+* [书单](life/书单.md)
 * [人生](life/life.md)
 * [所想](others/thinking.md)
 
@@ -57,11 +57,10 @@
 * [限流算法](blog/限流算法.md)
 * [你不知道的前端](blog/你不知道的前端.md)
 * [Gitbook本地安装教程](blog/gitbook.md)
+* [Win11 系统登入时绑定微软邮箱导致用户名欠缺](blog/win11-system.md)
 
 ## 金融游戏
 
 - [投资思维入门.md](金融游戏/投资思维入门.md)
-
-[//]: # (- [永辉超市分析.md]&#40;金融游戏/永辉超市分析.md&#41;)
 
 ## AI
