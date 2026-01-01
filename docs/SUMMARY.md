@@ -70,7 +70,7 @@
 * [go总结](blog/go总结.md)
 * [gradle](blog/gradle.md)
 * [Nginx](blog/Nginx.md)
-* [Oath 2.0](blog/Oath 2.0.md)
+* [Oath 2.0](blog/Oath_2.0.md)
 * [reactive-programing](blog/reactive-programing.md)
 * [terraform](blog/terraform.md)
 * [win11-system](blog/win11-system.md)
