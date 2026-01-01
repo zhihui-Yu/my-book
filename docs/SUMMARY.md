@@ -64,61 +64,61 @@
 ## Blog
 
 * [chocolatey](blog/chocolatey.md)
-    * [CRDT-无冲突复制数据类型](blog/CRDT-无冲突复制数据类型.md)
-    * [flyway](blog/flyway.md)
-    * [gitbook](blog/gitbook.md)
-    * [go总结](blog/go总结.md)
-    * [gradle](blog/gradle.md)
-    * [Nginx](blog/Nginx.md)
-    * [Oath 2.0](blog/Oath 2.0.md)
-    * [reactive-programing](blog/reactive-programing.md)
-    * [terraform](blog/terraform.md)
-    * [win11-system](blog/win11-system.md)
-    * [你不知道的前端](blog/你不知道的前端.md)
-    * [分布式系统事务解决方案](blog/分布式系统事务解决方案.md)
-    * [工作场景方案总结](blog/工作场景方案总结.md)
-    * [心理学总结](blog/心理学总结.md)
-    * [算法](blog/算法.md)
-    * [经验总结](blog/经验总结.md)
-    * [缓存使用建议](blog/缓存使用建议.md)
-    * [设计模式思考](blog/设计模式思考.md)
-    * [限流算法](blog/限流算法.md)
-    * **Java**
-        * [Java相关](blog/Java/Java相关.md)
-        * [Java类加载规则](blog/Java/Java类加载规则.md)
-        * [Java虚拟线程](blog/Java/Java虚拟线程.md)
-        * [Java锁](blog/Java/Java锁.md)
-        * [单例模式](blog/Java/单例模式.md)
-        * [解释 volatile](blog/Java/解释volatile.md)
-    * **jenkins**
-        * [jenkins实践](blog/jenkins/jenkins实践.md)
-    * **中间件**
-        * [kafka](blog/中间件/kafka.md)
-        * [milvus](blog/中间件/milvus.md)
-        * [Mongo-UpdateMany](blog/中间件/Mongo-UpdateMany.md)
-        * [MongoDB-migration](blog/中间件/MongoDB-migration.md)
-        * [MongoDB-副本集和分片](blog/中间件/MongoDB-副本集和分片.md)
-        * [MongoDB-索引](blog/中间件/MongoDB-索引.md)
-        * [MySQL-binlog 同步方案](blog/中间件/MySQL-binlog-同步方案.md)
-        * [MySQL-索引](blog/中间件/MySQL-索引.md)
-        * [MySQL-语句](blog/中间件/MySQL-语句.md)
-        * [MySQL](blog/中间件/MySQL.md)
-        * [消息中间件之RabbitMQ](blog/中间件/消息中间件之RabbitMQ.md)
-    * **医**
-        * [人纪](blog/医/人纪.md)
-    * **源码学习**
-        * [Netty总结](blog/源码学习/Netty总结.md)
-        * **guava**
-            * [EventBus](blog/源码学习/guava/EventBus.md)
-        * **mybatis**
-            * [mybatis](blog/源码学习/mybatis/mybatis.md)
-        * **netty**
-            * [socket](blog/源码学习/netty/socket.md)
-        * **spring**
-            * [读取resources下所有文件](blog/源码学习/spring/读取resources下所有文件.md)
-    * **网络**
-        * [HTTP 请求过程](blog/网络/HTTP-请求过程.md)
-        * [TLS 会话加密过程](blog/网络/TLS-会话加密过程.md)
+* [CRDT-无冲突复制数据类型](blog/CRDT-无冲突复制数据类型.md)
+* [flyway](blog/flyway.md)
+* [gitbook](blog/gitbook.md)
+* [go总结](blog/go总结.md)
+* [gradle](blog/gradle.md)
+* [Nginx](blog/Nginx.md)
+* [Oath 2.0](blog/Oath 2.0.md)
+* [reactive-programing](blog/reactive-programing.md)
+* [terraform](blog/terraform.md)
+* [win11-system](blog/win11-system.md)
+* [你不知道的前端](blog/你不知道的前端.md)
+* [分布式系统事务解决方案](blog/分布式系统事务解决方案.md)
+* [工作场景方案总结](blog/工作场景方案总结.md)
+* [心理学总结](blog/心理学总结.md)
+* [算法](blog/算法.md)
+* [经验总结](blog/经验总结.md)
+* [缓存使用建议](blog/缓存使用建议.md)
+* [设计模式思考](blog/设计模式思考.md)
+* [限流算法](blog/限流算法.md)
+* **Java**
+    * [Java相关](blog/Java/Java相关.md)
+    * [Java类加载规则](blog/Java/Java类加载规则.md)
+    * [Java虚拟线程](blog/Java/Java虚拟线程.md)
+    * [Java锁](blog/Java/Java锁.md)
+    * [单例模式](blog/Java/单例模式.md)
+    * [解释 volatile](blog/Java/解释volatile.md)
+* **jenkins**
+    * [jenkins实践](blog/jenkins/jenkins实践.md)
+* **中间件**
+    * [kafka](blog/中间件/kafka.md)
+    * [milvus](blog/中间件/milvus.md)
+    * [Mongo-UpdateMany](blog/中间件/Mongo-UpdateMany.md)
+    * [MongoDB-migration](blog/中间件/MongoDB-migration.md)
+    * [MongoDB-副本集和分片](blog/中间件/MongoDB-副本集和分片.md)
+    * [MongoDB-索引](blog/中间件/MongoDB-索引.md)
+    * [MySQL-binlog 同步方案](blog/中间件/MySQL-binlog-同步方案.md)
+    * [MySQL-索引](blog/中间件/MySQL-索引.md)
+    * [MySQL-语句](blog/中间件/MySQL-语句.md)
+    * [MySQL](blog/中间件/MySQL.md)
+    * [消息中间件之RabbitMQ](blog/中间件/消息中间件之RabbitMQ.md)
+* **医**
+    * [人纪](blog/医/人纪.md)
+* **源码学习**
+    * [Netty总结](blog/源码学习/Netty总结.md)
+    * **guava**
+        * [EventBus](blog/源码学习/guava/EventBus.md)
+    * **mybatis**
+        * [mybatis](blog/源码学习/mybatis/mybatis.md)
+    * **netty**
+        * [socket](blog/源码学习/netty/socket.md)
+    * **spring**
+        * [读取resources下所有文件](blog/源码学习/spring/读取resources下所有文件.md)
+* **网络**
+    * [HTTP 请求过程](blog/网络/HTTP-请求过程.md)
+    * [TLS 会话加密过程](blog/网络/TLS-会话加密过程.md)
 
 ## 金融游戏
 
