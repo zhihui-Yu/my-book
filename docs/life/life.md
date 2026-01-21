@@ -13,3 +13,6 @@
 ## Proud Things
 - 第一次主动认识陌生人
 - 第一次去看展
+
+## Nice Things
+- [3d 圣彼得大教堂](https://virtual.basilicasanpietro.va/en)
