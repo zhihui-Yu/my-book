@@ -28,6 +28,7 @@
         * [阿里Java开发手册](book/技术/design/阿里Java开发手册.md)
         * [重构： 改善既有代码的设计](book/技术/design/重构_改善既有代码的设计.md)
         * [设计模式](book/技术/design/设计模式.md)
+        * [软件设计的哲学](book/技术/design/软件设计的哲学.md)
     * [架构设计](book/技术/arch/README.md)
         * [凤凰架构](book/技术/arch/凤凰架构.md)
         * [从0开始学架构](book/技术/arch/从0开始学架构.md)
