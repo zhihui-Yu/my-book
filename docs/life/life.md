@@ -9,6 +9,7 @@
 - 做一个自己的app
 - 人生1w天纪念
 - 陌生世界走走
+- 学会钢琴曲： "call of silence"
 
 ## Proud Things
 - 第一次主动认识陌生人
